@@ -2,7 +2,15 @@
     background-image: url("/portfolio-frontEnd/img/fondoDeCabecera.jpg");
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: 0%;
+    background-position: 100%;
     padding-top: 30%;
-    margin-bottom: 10%;
+}
+
+.icono {
+    width: 25%;
+    margin-top: 30%;
+}
+
+.btn {
+    margin-top: 20%;
 }
