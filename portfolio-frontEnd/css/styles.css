@@ -1,0 +1,8 @@
+#fondoDelHeader {
+    background-image: url("/portfolio-frontEnd/img/fondoDeCabecera.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 0%;
+    padding-top: 30%;
+    margin-bottom: 10%;
+}
